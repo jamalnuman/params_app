@@ -1,0 +1,5 @@
+{
+  message: @my_message,
+  butter: @butter,
+  name: @jamal
+}
